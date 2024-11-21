@@ -22,6 +22,11 @@
 - Random password generation
 - Clipboard integration
 - [Project Details](./project2_password_manager/README.md)
+### 3. NATO Phonetic Alphabet Converter
+- Reads NATO phonetic alphabet from CSV
+- Converts letters to phonetic codes
+- Error handling for non-letter inputs
+- Interactive word conversion
 
 ### Upcoming Projects
 - Web Scraper
