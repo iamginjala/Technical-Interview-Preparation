@@ -27,6 +27,13 @@
 - Converts letters to phonetic codes
 - Error handling for non-letter inputs
 - Interactive word conversion
+### 4. Flashcard App: French to English Vocabulary Practice
+
+A simple flashcard app built with Python and Tkinter to help users learn and practice common French words and their English translations.
+
+- Displays a French word on a flashcard, flipping to reveal its English translation after 3 seconds.
+- Users can mark words as "Known" or "Unknown."
+- Tracks progress and saves unknown words for future practice.
 
 ### Upcoming Projects
 - Web Scraper
@@ -53,4 +60,4 @@
 
 ## Contact
 - GitHub Profile
-- Email for inquiries
+- Email for inquiries(harshaginjaladec23@gmail.com)
