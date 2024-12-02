@@ -67,6 +67,18 @@ The project consists of the following components:
    - Populates the `question_bank` by creating `Question` objects.
    - Initializes the `QuizBrain` object.
    - Launches the `QuizInterface` for the user.
+6.**Fetching Questions**: The application uses the OpenTDB API to fetch trivia questions:
+   ```python
+   import requests
+
+   # Parameters for the API request
+   parameters = {"amount": 10, "type": "boolean"}
+   response = requests.get("https://opentdb.com/api.php", params=parameters)
+   response.raise_for_status()
+
+   # Extract questions from the API response
+   Q = response.json()
+   question_data = Q["results"]
 
 ---
 
