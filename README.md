@@ -8,6 +8,7 @@
 - **Web Development**: Flask/Django
 - **Data Manipulation**: Pandas, NumPy
 - **Machine Learning**: Scikit-learn
+- **API**: Rest,Soap
 
 ## Current Projects
 
@@ -34,7 +35,7 @@ A simple flashcard app built with Python and Tkinter to help users learn and pra
 - Displays a French word on a flashcard, flipping to reveal its English translation after 3 seconds.
 - Users can mark words as "Known" or "Unknown."
 - Tracks progress and saves unknown words for future practice.
-
+### many more projects under the repo
 ### Upcoming Projects
 - Web Scraper
 - Data Visualization Dashboard
